@@ -1,0 +1,17 @@
+.blog-squares{
+    width:230px;
+    height:230px;
+    object-fit: cover;
+}
+@media screen and (max-width:768px) {
+    .blog-squares{
+        width:140px;
+        height:140px;
+        object-fit: cover;
+    }
+}
+
+
+.blog-squares a img{
+    height:100%;
+}

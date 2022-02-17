@@ -1,0 +1,16 @@
+.single-background{
+    background-image: url(../images/blog-left-dec.jpg);
+    padding-top:200px;
+    padding-bottom:120px;
+    background-repeat: no-repeat;
+
+}
+@media screen and (max-width:992px){
+    .single-background{
+        background-image: url(../images/blog-left-dec.jpg);
+        padding-top:200px;
+        padding-bottom:10px;
+        
+        background-repeat: no-repeat;
+    }
+}
